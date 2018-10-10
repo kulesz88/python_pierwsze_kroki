@@ -1,10 +1,10 @@
-#imie = 'Mateusz'
-#marka_samochodu = 'Fiat'
-#silnik = '1.4 benzyna'
-#ilosc_drzwi = 5
-#pojemnosc = 1.3
+imie = 'Mateusz'
+marka_samochodu = 'Fiat'
+silnik = '1.4 benzyna'
+ilosc_drzwi = 5
+pojemnosc = 1.3
 #
-#print('Witaj swiecie ' + imie + '!')
+print('Witaj swiecie ' + imie + '!')
 #print('Twoje auto to ' + marka_samochodu + ' ma ' + str(ilosc_drzwi) + ' drzwi')
 #print('Silnik to ' + silnik)
 #print(marka_samochodu.upper())
